@@ -1,0 +1,38 @@
+body {
+    background-image: url("../images/background2.jpg"); 
+    background-size: cover;
+    min-height: 100%;
+    position: relative;
+    color: black;
+    margin-bottom: 60px;
+ }
+
+ #title {
+     text-align: center;
+     padding-top: 20px;
+ }
+
+ #buttonSection {
+     text-align: center;
+     padding-top: 15px;
+ }
+
+ .btn {
+     margin: 5px;
+ }
+
+ .submit {
+     background-color: coral;
+     color: black;
+ }
+
+
+#GIFSection {
+    text-align: center;
+    margin-top: 25px;
+}
+
+#inputform {
+    text-align: center;
+    margin: auto;
+}
